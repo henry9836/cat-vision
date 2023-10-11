@@ -2,7 +2,7 @@
 ###### A simple TensorFlow image classifier for cucumbers and snakes
 ![Example](https://github.com/henry9836/cat-vision/blob/master/imgs/inputs.gif?raw=true)
 
-This image classifier makes use of the TensorFlow library for Python to outperform some cats in identifying the difference between a cucumber and a snake.
+I built this image classifier to learn more about computer vision, it makes use of the TensorFlow library for Python to outperform some cats in identifying the difference between a cucumber and a snake.
 
 
 #### Supports URL image grabbing 
