@@ -10,3 +10,7 @@ https://universe.roboflow.com/nitroglycerin-films/cat-vision-0.5
 ### Supports URL image grabbing 
 ![Somethingfun](https://github.com/henry9836/cat-vision/blob/master/imgs/internet_images.gif?raw=true)
 
+###### References
+https://www.tensorflow.org/tutorials/images/classification
+
+https://universe.roboflow.com/
