@@ -1,4 +1,4 @@
-# cat-vision
+# Cat Vision
 ###### A simple TensorFlow image classifier for cucumbers and snakes
 ![Example](https://github.com/henry9836/cat-vision/blob/master/imgs/inputs.gif?raw=true)
 
