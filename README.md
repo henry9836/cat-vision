@@ -27,7 +27,7 @@ project root
 ```
 
 ### Usage
-![Usage Image](https://raw.githubusercontent.com/henry9836/cat-vision/1.0/imgs/usage.png)
+![Usage Image](https://raw.githubusercontent.com/henry9836/cat-vision/master/imgs/usage.png)
 
 Simply run the application.
 
