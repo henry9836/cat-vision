@@ -1,11 +1,10 @@
 #!/bin/python
 
-import matplotlib.pyplot as plt
-import numpy as np
 import cv2
 import tensorflow as tf
 from keras.models import Sequential
 from tensorflow.keras import layers 
+import numpy as np
 import pathlib
 import random
 import os
