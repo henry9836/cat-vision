@@ -1,11 +1,10 @@
 #!/bin/python
 
-import matplotlib.pyplot as plt
-import numpy as np
 import cv2
 import tensorflow as tf
 from keras.models import Sequential
 from tensorflow.keras import layers 
+import numpy as np
 import pathlib
 import random
 import os
@@ -58,7 +57,7 @@ def testData(snakes, cucumbers, model, sizeY, sizeX, class_names):
     imgS = cv2.putText(imgS, shortResult, (10, 75), cv2.FONT_HERSHEY_DUPLEX, 1, (0, 0, 0), 8, cv2.LINE_AA) 
     imgS = cv2.putText(imgS, shortResult, (10, 75), cv2.FONT_HERSHEY_DUPLEX, 1, (28, 172, 255), 2, cv2.LINE_AA) 
     cv2.imshow(result, imgS)
-    cv2.moveWindow(result, 2160, 500)
+    #cv2.moveWindow(result, 2160, 500)
     cv2.waitKey(0)
     cv2.destroyAllWindows()
 

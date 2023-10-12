@@ -4,6 +4,10 @@
 
 I built this image classifier to learn more about computer vision, it makes use of the TensorFlow library for Python to outperform some cats in identifying the difference between a cucumber and a snake.
 
+<a href="https://universe.roboflow.com/nitroglycerin-films/cat-vision-0.5">
+    <img src="https://app.roboflow.com/images/download-dataset-badge.svg"></img>
+</a>
+
 ### Setup
 `$ pip install -r requirements.txt`
 
@@ -36,9 +40,6 @@ It will either generate a new model or use a saved one, once it is ready you wil
 #### Quitting
 - `q` This will close the application without saving the model
 - `s` This will save the model and then close the application
-
-##### Roboflow dataset
-https://universe.roboflow.com/nitroglycerin-films/cat-vision-0.5
 
 ### Supports URL image grabbing 
 ![Somethingfun](https://github.com/henry9836/cat-vision/blob/master/imgs/internet_images.gif?raw=true)
